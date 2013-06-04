@@ -14,7 +14,7 @@ import unittest2 as unittest
 STYLESHEETS = [
     "++resource++brasil.gov.barra/azul.css",
     "++resource++brasil.gov.barra/cinza.css",
-    "++resource++brasil.gov.barra/preto.css",
+    "++resource++brasil.gov.barra/preta.css",
     "++resource++brasil.gov.barra/verde.css",
 ]
 
